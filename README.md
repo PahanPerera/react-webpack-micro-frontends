@@ -2,6 +2,9 @@
 
 This repo contains a React based demo bank application which is built using micro frontend architecture. Also it uses the Webpack's Module Federation Feature.
 
+https://dev.to/pahanperera/react-micro-frontends-with-webpacks-module-federation-32ii
+
+
 This mono repo contains...
 
 - `accounts-summary-app` - Micro frontend that provides the summary of all the accounts
