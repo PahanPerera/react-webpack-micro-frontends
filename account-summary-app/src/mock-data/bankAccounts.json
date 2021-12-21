@@ -1,0 +1,22 @@
+{
+  "bankAccounts": [
+    {
+      "id": "1",
+      "bankName": "Chase",
+      "shortName": "Chase",
+      "accountName": "Checking Account",
+      "last4": "0123",
+      "balance": "3,567.23",
+      "color": "blue"
+    },
+    {
+      "id": "2",
+      "bankName": "Bank of America",
+      "shortName": "BoF",
+      "accountName": "Savings Account",
+      "last4": "9876",
+      "balance": "30,342.11",
+      "color": "red"
+    }
+  ]
+}
